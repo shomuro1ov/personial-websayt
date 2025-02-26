@@ -1,0 +1,10 @@
+.conteaner{
+    border:1px solid transparent;
+    min-height: 200vh;
+}
+.box {
+    margin: 1rem;
+}
+.static{
+    border: 1px solid lightcoral;
+}
